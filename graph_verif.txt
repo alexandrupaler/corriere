@@ -1,0 +1,8 @@
+X:V,R,B,Y Z:
+X:I,out,B,Y Z:
+X:I,G,V,B Z:
+X:I,V,O,Y Z:
+X: Z:O,R,out,Y
+X: Z:O,G,B,Y
+X: Z:I,G,R,Y
+X: Z:V,G,R,O
